@@ -6,3 +6,7 @@ body{
 
 	min-height: 100vh;
 }
+
+.input-musica{
+	display: none;
+}
